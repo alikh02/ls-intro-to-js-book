@@ -1,0 +1,23 @@
+{
+  "name": "ls_intro_js_book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alikh02/ls-intro-to-js-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alikh02/ls-intro-to-js-book/issues"
+  },
+  "homepage": "https://github.com/alikh02/ls-intro-to-js-book#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
